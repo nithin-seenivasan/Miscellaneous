@@ -1,2 +1,2 @@
 # Miscellaneous
-Miscellaneous/Unsorted code intended for future reuse
+Miscellaneous/Unsorted VBA code intended for future reuse
